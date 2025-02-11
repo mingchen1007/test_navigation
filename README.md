@@ -1,6 +1,11 @@
-# 网站导航
-人人都可以拥有属于自己的导航网站
+# 网站导航使用
 
-访问地址：https://test.itmingchen.top/
+## 体验地址[体验地址用于用户体验和多网站导航]
+体验地址：https://test.itmingchen.top/
 
+
+## 使用地址[用于用户使用]
+### 使用方式一
+使用地址：https://navigationshare.itmingchen.top/
+### 使用方式二
 下载exe：链接: https://pan.baidu.com/s/1dbsT8dEkc7j_yVagaASsAg?pwd=y9bg 提取码: y9bg 
